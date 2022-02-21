@@ -1,0 +1,35 @@
+{
+  "name": "rn-animated-scrollview-header",
+  "version": "1.0.0",
+  "description": "Animated Header in ScrollView that animates on scrolling of items, Rendered in scrollView.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ad-mob-dev/rn-animated-scrollview-header.git"
+  },
+  "keywords": [
+    "Animated-Header",
+    "Animated-ScrollView-Header",
+    "Animated-Sliding-Header",
+    "React-Native-Scrolling-Header",
+    "React-Native-Animated-Header",
+    "React-Native-Header",
+    "Rn-Animated-scrollview-Header"
+  ],
+  "author": "Adeel Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ad-mob-dev/rn-animated-scrollview-header/issues"
+  },
+  "homepage": "https://github.com/Ad-mob-dev/rn-animated-scrollview-header#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.67.2"
+  }, 
+  "dependencies": {
+    "prop-types": "^15.8.1"
+  }
+}
